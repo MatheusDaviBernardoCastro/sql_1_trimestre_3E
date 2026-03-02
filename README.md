@@ -1,2 +1,2 @@
 # sql_1_trimestre_3E
-é o sql
+Matheus Davi Bernardo Castro N°24 serie 3E
